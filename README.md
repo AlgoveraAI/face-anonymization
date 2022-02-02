@@ -1,4 +1,4 @@
-# 💸 Algovera: Algorithms for Detecting and Anonymizing Faces
+# 😎 Algovera: Algorithms for Detecting and Anonymizing Faces
 
 This is a collaboration with DataUnion to develop a face anonymisation algorithm. 
 
