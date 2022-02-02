@@ -42,6 +42,7 @@ cd face-anonymization
 # 🤖 Resources
 
 * Introductory [Presentation](https://docs.google.com/presentation/d/1rYopNHlvFvV2Pqa08sGWxLbhR8uuiqfPgFnomJO9oVM/edit?usp=sharing)
+* Resources [Notebook] (https://github.com/AlgoveraAI/face-anonymization/blob/main/notebooks/resources.ipynb)
 
 # 🏛 License
 
